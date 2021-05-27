@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-05-27 02:38:12">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>URL Shortener</description>
+<inserted/>
+<name>ShrinkNow-v1.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>df4999f52f183010732c4ae72799b6e4</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>990474762f503010732c4ae72799b6fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_shrinknow_urls_u_active_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_active" label="Active" language="en" table="u_shrinknow_urls"><sys_documentation action="INSERT_OR_UPDATE"><element>u_active</element><help/><hint/><label>Active</label><language>en</language><name>u_shrinknow_urls</name><plural>Active</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:18:25</sys_created_on><sys_id>041e48b52fd03010732c4ae72799b695</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Active</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_documentation_u_shrinknow_urls_u_active_en</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:18:25</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>669409433</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>110474762f503010732c4ae72799b6ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1bd0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Active</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>101e48b542d03010a2944e80d51d9ba2</update_guid>
+<update_guid_history>101e48b542d03010a2944e80d51d9ba2:669409433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_cbdc40752fd03010732c4ae72799b651</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:09</sys_created_on><sys_id>cbdc40752fd03010732c4ae72799b651</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls.u_shrinknow_urls_user</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_security_acl display_value="u_shrinknow_urls">83dc40752fd03010732c4ae72799b64d</sys_security_acl><sys_update_name>sys_security_acl_role_cbdc40752fd03010732c4ae72799b651</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:09</sys_updated_on><sys_user_role display_value="u_shrinknow_urls_user" name="u_shrinknow_urls_user">b2dcccf12fd03010732c4ae72799b6be</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>2088666484</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>1104b4762f503010732c4ae72799b602</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44dfec0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls.u_shrinknow_urls_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>47dc407573d03010460c19cb9c5e3755</update_guid>
+<update_guid_history>47dc407573d03010460c19cb9c5e3755:2088666484</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_shrinknow_urls_u_expires</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_expires" table="u_shrinknow_urls"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Expires&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;javascript:var gdt = new GlideDateTime(gs.nowDateTime());gdt.addYears(1);gdt.getDate();&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_expires&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value=""&gt;glide_date&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_shrinknow_urls&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:16:54&lt;/sys_created_on&gt;&lt;sys_id&gt;443d84352fd03010732c4ae72799b6fa&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Expires&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_shrinknow_urls_u_expires&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-24 02:31:37&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-916181395</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>150474762f503010732c4ae72799b6fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e32c0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Expires</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>80c5ddf1ef183010c6327706075bb745</update_guid>
+<update_guid_history>80c5ddf1ef183010c6327706075bb745:-916181395,7dbd80b5d0d030106be1af3c4deafd22:-843737876</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_83dc40752fd03010732c4ae72799b64d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_shrinknow_urls</description><name>u_shrinknow_urls</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:09</sys_created_on><sys_id>83dc40752fd03010732c4ae72799b64d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_security_acl_83dc40752fd03010732c4ae72799b64d</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:09</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1834030661</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>1504b4762f503010732c4ae72799b601</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e01a0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>0fdc4075bcd03010bb0ffb0839a0b550</update_guid>
+<update_guid_history>0fdc4075bcd03010bb0ffb0839a0b550:-1834030661</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_4dfac4b12fd03010732c4ae72799b6b8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><installed_as_dependency>false</installed_as_dependency><js_level>helsinki_es5</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>ShrinkNow</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description>URL Shortener</short_description><source>4dfac4b12fd03010732c4ae72799b6b8</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:04:49</sys_created_on><sys_id>4dfac4b12fd03010732c4ae72799b6b8</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-24 02:46:49</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>1601358962</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>190474762f503010732c4ae72799b6fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44df9c0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>ShrinkNow</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>fe399139e9183010aaddda9f03bd1fff</update_guid>
+<update_guid_history>fe399139e9183010aaddda9f03bd1fff:1601358962,81fac4b151d03010cb75f522c48da1bc:1321438180</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_1eaec8b52fd03010732c4ae72799b691</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.ShrinkNow&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;ShrinkNow&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ShrinkNow = Class.create();
+ShrinkNow.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	saveExpDate: function() {
+		var url = this.getParameter('sysparm_url'); 
+		var exp_date = this.getParameter('sysparm_exp_date'); 
+		
+		//pull the url id from the url
+		var url_id = url.substring(url.lastIndexOf('/') + 1);
+		
+		if (this._saveExpDate(url_id, exp_date)) {
+			return true;	
+		}
+		
+		return false;
+	},	
+
+	setShortURL: function() {
+		var longurl = this.getParameter('sysparm_longurl');  
+		var instance_url = gs.getProperty('glide.servlet.uri');
+		
+		// get the company code for the URL
+		var comp_code = 'nrvsw';
+		
+		// generate the shrunk URL
+		var url_id = this._createRandomString(8);		
+		var shorturl = 'api/' + comp_code + '/shrinknow/map/' + url_id;
+		
+		var sysid = this._addURL(url_id, longurl.replace(instance_url, ''));
+		
+		if (sysid) {
+			return instance_url  + shorturl;
+		}
+
+		return false;
+	},
+	
+	_addURL: function(url_id, longurl) {
+		var gr = new GlideRecord('u_shrinknow_urls');
+		gr.addQuery('u_url_id', url_id);
+		gr.query();
+		
+		if (!gr.next()) {
+			gr.initialize();
+			gr.u_long_url = '/' + longurl;
+			gr.u_url_id = url_id;
+			var sysid = gr.insert();
+			
+			return (sysid) ? sysid : false;
+		}
+		
+		return false;	
+	},
+	
+	_saveExpDate: function(url_id, exp_date) {
+		var gd = new GlideDate(); 
+		gd.setValue(exp_date);	
+		
+		var gr = new GlideRecord('u_shrinknow_urls');
+		gr.addQuery('u_url_id', url_id);
+		gr.query();
+		
+		if (gr.next()) {
+			gr.u_expires = gd;
+			
+			if (gr.update()) {
+				return true;
+			}
+		}
+		
+		return false;	
+	},	
+		
+	_createRandomString: function(size) {
+		var chars = '0123456789abcdefghijklmnopqrstuvwxyz';
+		var random_string = '';
+		
+		for (var i=0; i&lt;size; i++) {
+			random_string += chars[Math.floor(Math.random() * chars.length)];
+		}
+
+		return random_string;	
+	},
+	
+    type: 'ShrinkNow'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:23:14&lt;/sys_created_on&gt;&lt;sys_id&gt;1eaec8b52fd03010732c4ae72799b691&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;ShrinkNow&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_1eaec8b52fd03010732c4ae72799b691&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-23 21:29:38&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-259536256</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>1904b4762f503010732c4ae72799b600</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e2030000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>ShrinkNow</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>14a0d879a7d0301046052cd55a386132</update_guid>
+<update_guid_history>14a0d879a7d0301046052cd55a386132:-259536256,ea2f80f544d03010928932eb7a34df44:2125529106</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_2bdc40752fd03010732c4ae72799b6c2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_shrinknow_urls</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:11</sys_created_on><sys_id>2bdc40752fd03010732c4ae72799b6c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>ua_table_licensing_config_2bdc40752fd03010732c4ae72799b6c2</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:11</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-185561791</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>1904b4762f503010732c4ae72799b603</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e0dc0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>u_shrinknow_urls</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_shrinknow_urls_u_url_id_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_url_id" label="URL ID" language="en" table="u_shrinknow_urls"><sys_documentation action="INSERT_OR_UPDATE"><element>u_url_id</element><help/><hint/><label>URL ID</label><language>en</language><name>u_shrinknow_urls</name><plural>URL IDs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:16:54</sys_created_on><sys_id>86bd80b52fd03010732c4ae72799b62a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>URL ID</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_documentation_u_shrinknow_urls_u_url_id_en</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:16:54</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>243621240</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>1d0474762f503010732c4ae72799b6ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e14f0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.URL ID</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>82bd80b524d03010eacd2b6991d8e53e</update_guid>
+<update_guid_history>82bd80b524d03010eacd2b6991d8e53e:243621240</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_611258b92fd03010732c4ae72799b65d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="611258b92fd03010732c4ae72799b65d" sys_domain="global" table="u_shrinknow_urls" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_number</element><position>0</position><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:37:38</sys_created_on><sys_id>2d72dcf92fd03010732c4ae72799b695</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_shrinknow_urls" sys_domain="global" view="Default view">611258b92fd03010732c4ae72799b65d</sys_ui_section><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:37:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_url_id</element><position>1</position><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:37:38</sys_created_on><sys_id>ad72dcf92fd03010732c4ae72799b695</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_shrinknow_urls" sys_domain="global" view="Default view">611258b92fd03010732c4ae72799b65d</sys_ui_section><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:37:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:37:38</sys_created_on><sys_id>2172dcf92fd03010732c4ae72799b696</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_shrinknow_urls" sys_domain="global" view="Default view">611258b92fd03010732c4ae72799b65d</sys_ui_section><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:37:38</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_expires</element><position>3</position><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:37:38</sys_created_on><sys_id>a172dcf92fd03010732c4ae72799b696</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_shrinknow_urls" sys_domain="global" view="Default view">611258b92fd03010732c4ae72799b65d</sys_ui_section><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:37:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_active</element><position>4</position><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:37:38</sys_created_on><sys_id>2572dcf92fd03010732c4ae72799b696</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_shrinknow_urls" sys_domain="global" view="Default view">611258b92fd03010732c4ae72799b65d</sys_ui_section><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:37:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:37:38</sys_created_on><sys_id>a572dcf92fd03010732c4ae72799b696</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_shrinknow_urls" sys_domain="global" view="Default view">611258b92fd03010732c4ae72799b65d</sys_ui_section><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:37:38</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_long_url</element><position>6</position><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:37:38</sys_created_on><sys_id>2972dcf92fd03010732c4ae72799b696</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_shrinknow_urls" sys_domain="global" view="Default view">611258b92fd03010732c4ae72799b65d</sys_ui_section><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:37:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_shrinknow_urls</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>611258b92fd03010732c4ae72799b65d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls</sys_name><sys_overrides/><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_ui_section_611258b92fd03010732c4ae72799b65d</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:59</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1694341765</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>1d04b4762f503010732c4ae72799b602</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e2940000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>a172dcf9bad030100c0c7605a3bb5998</update_guid>
+<update_guid_history>a172dcf9bad030100c0c7605a3bb5998:1694341765,a11254f955d03010b84fc69fcdfbcaf0:1266811142,e51258b923d0301078c6c9cc560feb60:1817141422</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_shrinknow_urls_u_active</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_active" table="u_shrinknow_urls"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Active&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;true&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_active&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value=""&gt;boolean&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_shrinknow_urls&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:18:25&lt;/sys_created_on&gt;&lt;sys_id&gt;07bdc0b52fd03010732c4ae72799b65f&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Active&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_shrinknow_urls_u_active&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-23 21:36:31&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1431652767</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>510474762f503010732c4ae72799b6fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e2c20000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Active</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>153258f9cdd0301061c4b0671559228f</update_guid>
+<update_guid_history>153258f9cdd0301061c4b0671559228f:1431652767,0c1e48b58bd0301018e804ee80550493:-1163279112</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_3adc40752fd03010732c4ae72799b638</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_shrinknow_urls</description><name>u_shrinknow_urls</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:09</sys_created_on><sys_id>3adc40752fd03010732c4ae72799b638</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_security_acl_3adc40752fd03010732c4ae72799b638</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:09</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1081819957</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>5104b4762f503010732c4ae72799b601</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e04c0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>b6dc407505d03010d046d64c3b5a373d</update_guid>
+<update_guid_history>b6dc407505d03010d046d64c3b5a373d:-1081819957</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_number_881e80752fd03010732c4ae72799b68a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="u_shrinknow_urls">u_shrinknow_urls</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>URL</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:18:24</sys_created_on><sys_id>881e80752fd03010732c4ae72799b68a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>URL</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_number_881e80752fd03010732c4ae72799b68a</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:18:24</sys_updated_on></sys_number></record_update>]]></payload>
+<payload_hash>1440101641</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>5504b4762f503010732c4ae72799b600</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1890000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>URL</target_name>
+<type>Number</type>
+<update_domain>global</update_domain>
+<update_guid>0c1e48b5a9d030103d0c808bab9bc98d</update_guid>
+<update_guid_history>0c1e48b5a9d030103d0c808bab9bc98d:1440101641</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_operation_f6af44392fd03010732c4ae72799b6f3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ws_operation"&gt;&lt;sys_ws_operation action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;consumes&gt;application/json,application/xml,text/xml&lt;/consumes&gt;&lt;consumes_customized&gt;false&lt;/consumes_customized&gt;&lt;default_operation_uri/&gt;&lt;enforce_acl/&gt;&lt;http_method&gt;GET&lt;/http_method&gt;&lt;name&gt;GET - Redirect&lt;/name&gt;&lt;operation_script&gt;&lt;![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+	var url_id = request.pathParams.url_id;
+
+	var gr = new GlideRecord('u_shrinknow_urls');
+	gr.addQuery('u_url_id', url_id);
+	gr.setLimit(1);
+	gr.query();
+
+	if (gr.next()) {
+		// set permanent redirect for location header
+		response.setStatus(301);		
+		response.setLocation(gr.u_long_url);
+	}
+	else {
+		response.setStatus(301);
+		response.setLocation('/not_found.do');		
+	}
+
+})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/nrvsw/shrinknow/map/{url_id}&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/map/{url_id}&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;false&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;false&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;false&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:27:54&lt;/sys_created_on&gt;&lt;sys_id&gt;f6af44392fd03010732c4ae72799b6f3&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;GET - Redirect&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_f6af44392fd03010732c4ae72799b6f3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-23 21:30:32&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="ShrinkNow"&gt;b55fc0392fd03010732c4ae72799b68b&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-411108255</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>5504b4762f503010732c4ae72799b603</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e21f0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>GET - Redirect</target_name>
+<type>Scripted REST Resource</type>
+<update_domain>global</update_domain>
+<update_guid>21d01479c7d03010a8b81b20397f452d</update_guid>
+<update_guid_history>21d01479c7d03010a8b81b20397f452d:-1393856454,f630147916d0301055a7a8b747cbef28:1283162501</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_shrinknow_urls_u_number_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_number" label="Number" language="en" table="u_shrinknow_urls"><sys_documentation action="INSERT_OR_UPDATE"><element>u_number</element><help/><hint/><label>Number</label><language>en</language><name>u_shrinknow_urls</name><plural>Numbers</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:18:25</sys_created_on><sys_id>cc1e48b52fd03010732c4ae72799b683</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Number</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_documentation_u_shrinknow_urls_u_number_en</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:18:25</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1361281872</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>590474762f503010732c4ae72799b6ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e19e0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Number</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>441e48b502d03010e2dd0fb6abd9d38c</update_guid>
+<update_guid_history>441e48b502d03010e2dd0fb6abd9d38c:-1361281872</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_script_ca1b00f12fd03010732c4ae72799b65c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;name&gt;ShrinkNow&lt;/name&gt;&lt;script&gt;&lt;![CDATA[
+if (window.name == 'gsft_main') {
+	if (typeof jQuery === 'function' &amp;&amp; typeof top.$j === 'function') {
+
+		if (!getTopWindow().document.getElementById("shrink_now")) {
+			var top = window.top;
+
+			var html = '&lt;div class="navpage-header-content", id="shrink_now"&gt;' +
+				'&lt;button data-placement="auto" class="btn btn-icon icon-link"' +
+				' title="ShrinkNow" data-original-title="ShrinkNow"&gt;' +
+				'&lt;span class="sr-only"&gt;ShrinkNow&lt;/span&gt;' +
+				'&lt;/button&gt;&lt;/div&gt;';
+
+			top.$j('.icon-search').parents('div.navpage-header-content').first().after(html);
+
+			top.$j('#shrink_now').on('click', function() {
+				var gURL = new GlideURL();
+				gURL.setFromCurrent();
+
+				var ga = new GlideAjax('ShrinkNow');
+				ga.addParam('sysparm_name', 'setShortURL');
+				ga.addParam('sysparm_longurl', gURL.getURL());
+				ga.getXML(function(response) {
+					var answer = response.responseXML.documentElement.getAttribute("answer");  
+
+					var gm = new GlideModal("ShrunkNow_Modal");
+					gm.setTitle('Your Shrunk URL');		      	
+					gm.setWidth(550);
+					gm.setPreference('sysparm_shrunk_url', answer);
+
+					gm.render();			  
+				});			
+			});		
+		}
+	}	
+}
+]]&gt;&lt;/script&gt;&lt;script_name/&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:07:36&lt;/sys_created_on&gt;&lt;sys_id&gt;ca1b00f12fd03010732c4ae72799b65c&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;ShrinkNow&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_ca1b00f12fd03010732c4ae72799b65c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-24 02:42:54&lt;/sys_updated_on&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>348725544</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>5904b4762f503010732c4ae72799b602</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e3430000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>ShrinkNow</target_name>
+<type>UI Script</type>
+<update_domain>global</update_domain>
+<update_guid>51589db5611830102aba688604849938</update_guid>
+<update_guid_history>51589db5611830102aba688604849938:348725544,202855b50b1830104ae67feddebfd3b7:841302551,64c71df107183010394259138a91bdfa:926109264,a98795f1d01830109bd4fd2d3bcdecfe:1117804359,b6761d3508183010ae825a0d82f85a6f:-1266958676,083591f1b0183010ca943d0d0633f701:-469859056,72e2103d7dd0301064caedc9f1682987:1425447935,bf9298b919d0301027406621ac50a6ab:-1543875316,006158b973d030102441a31daca7791a:663714848,6f2c0435f0d03010154e59b136abcd3c:-2103248285,43fb40f1dbd03010e93defe4861bfd67:-1832144758,399b08f102d03010820fc047270e0cec:1861278090</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_shrinknow_urls_u_url_id</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_url_id" table="u_shrinknow_urls"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;URL ID&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_url_id&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_shrinknow_urls&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:16:54&lt;/sys_created_on&gt;&lt;sys_id&gt;a4ec84352fd03010732c4ae72799b6f7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;URL ID&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_shrinknow_urls_u_url_id&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-23 21:16:54&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>58991572</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>5d0474762f503010732c4ae72799b6fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1690000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.URL ID</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>3dbd80b567d03010642376631366c61c</update_guid>
+<update_guid_history>3dbd80b567d03010642376631366c61c:58991572</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_b6dc40752fd03010732c4ae72799b63e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:09</sys_created_on><sys_id>b6dc40752fd03010732c4ae72799b63e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls.u_shrinknow_urls_user</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_security_acl display_value="u_shrinknow_urls">3adc40752fd03010732c4ae72799b638</sys_security_acl><sys_update_name>sys_security_acl_role_b6dc40752fd03010732c4ae72799b63e</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:09</sys_updated_on><sys_user_role display_value="u_shrinknow_urls_user" name="u_shrinknow_urls_user">b2dcccf12fd03010732c4ae72799b6be</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1416024956</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>5d04b4762f503010732c4ae72799b601</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e0040000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls.u_shrinknow_urls_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>03dc40758fd03010d65160a1fb7fe843</update_guid>
+<update_guid_history>03dc40758fd03010d65160a1fb7fe843:1416024956</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_fadcccf12fd03010732c4ae72799b6c1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="u_shrinknow_urls_user" name="u_shrinknow_urls_user">b2dcccf12fd03010732c4ae72799b6be</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:08</sys_created_on><sys_id>fadcccf12fd03010732c4ae72799b6c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b2dcccf12fd03010732c4ae72799b6be</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_embedded_help_role_fadcccf12fd03010732c4ae72799b6c1</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:08</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>-932282220</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>9104b4762f503010732c4ae72799b600</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44dfb80000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>b2dcccf12fd03010732c4ae72799b6be</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_definition_b55fc0392fd03010732c4ae72799b68b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/nrvsw/shrinknow</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>ShrinkNow</name><namespace>nrvsw</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>shrinknow</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:24:55</sys_created_on><sys_id>b55fc0392fd03010732c4ae72799b68b</sys_id><sys_mod_count>3</sys_mod_count><sys_name>ShrinkNow</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_ws_definition_b55fc0392fd03010732c4ae72799b68b</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:48:12</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+<payload_hash>-1051032769</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>9104b4762f503010732c4ae72799b603</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e2de0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>ShrinkNow</target_name>
+<type>Scripted REST API</type>
+<update_domain>global</update_domain>
+<update_guid>94e49cbd36d030103e175692ad8e510a</update_guid>
+<update_guid_history>94e49cbd36d030103e175692ad8e510a:-1051032769,18b4d87d38d030105fff9d57d0424d8c:-1608595021,df8fccb5b3d030103e2df0bc31f471bd:-1988741731</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_shrinknow_urls_u_long_url_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_long_url" label="Long URL" language="en" table="u_shrinknow_urls"><sys_documentation action="INSERT_OR_UPDATE"><element>u_long_url</element><help/><hint/><label>Long URL</label><language>en</language><name>u_shrinknow_urls</name><plural>Long URLs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:16:54</sys_created_on><sys_id>06bd80b52fd03010732c4ae72799b62c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Long URL</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_documentation_u_shrinknow_urls_u_long_url_en</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:16:54</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1989498958</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>950474762f503010732c4ae72799b6ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1390000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Long URL</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>46bd80b576d03010ec7249f137643166</update_guid>
+<update_guid_history>46bd80b576d03010ec7249f137643166:-1989498958</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_page_504c44352fd03010732c4ae72799b692</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;general&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function copy() {
+	var shrunk_url = document.getElementById('shrunk_url');
+	
+	// save new expiration date if populated
+	if ($j('#exp_date').val()) {
+		saveExpDate($j('#exp_date').val(), $j('#shrunk_url').val());
+	}
+	
+	shrunk_url.select();
+	shrunk_url.setSelectionRange(0, 99999); 
+	document.execCommand("copy");	
+	
+	$j('#btnCopy').hide();
+	$j('#copied_msg').show();
+	
+	setTimeout(function(){ 
+		GlideModal.get().destroy();
+	}, 2000);
+}
+
+function saveExpDate(exp_date, url) {
+	var ga = new GlideAjax('ShrinkNow');
+	ga.addParam('sysparm_name', 'saveExpDate');
+	ga.addParam('sysparm_url', url);
+	ga.addParam('sysparm_exp_date', exp_date);
+	ga.getXML(function(response) {
+		var answer = response.responseXML.documentElement.getAttribute("answer");  
+		console.log('ShrunkNow [saveExpDate]: ' + answer);
+	});
+}
+]]&gt;&lt;/client_script&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint/&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+
+	&lt;div class="form-group"&gt;	
+
+		&lt;div class="row"&gt;
+			&lt;div class="col-lg-12"&gt;
+				&lt;input type="text" id="shrunk_url" name="shrunk_url" value="${sysparm_shrunk_url}" class="form-control" readonly="true" /&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		
+		&lt;div class="row" style="margin-top: 10px;"&gt;			
+			&lt;div class="col-lg-4" style="width: 20%;"&gt;
+				&lt;label for="exp_date"&gt;Expiration date:&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class="col-lg-4" style="width: 30%;"&gt;
+				&lt;input type="date" id="exp_date" name="exp_date" class="form-control" style="float: left;"/&gt;
+			&lt;/div&gt;			
+			
+			&lt;div class="col-lg-4" style="width: 50%;"&gt;
+				&lt;button class="btn btn-primary" id="btnCopy" onclick="copy()" style="float: right;"&gt;Copy&lt;/button&gt;
+				&lt;span id="copied_msg" style="display: none; float: right;"&gt;Copied!!&lt;/span&gt;
+			&lt;/div&gt;			
+		&lt;/div&gt;
+
+
+		&lt;div style="text-align: right; margin-top: 10px;"&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name&gt;ShrinkNow - Modal&lt;/name&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:12:10&lt;/sys_created_on&gt;&lt;sys_id&gt;504c44352fd03010732c4ae72799b692&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;ShrinkNow - Modal&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_504c44352fd03010732c4ae72799b692&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-24 02:45:37&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+<payload_hash>767491044</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>9504b4762f503010732c4ae72799b602</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e3620000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>ShrinkNow - Modal</target_name>
+<type>UI Page</type>
+<update_domain>global</update_domain>
+<update_guid>05f85df5c11830103cf185c853178f76</update_guid>
+<update_guid_history>05f85df5c11830103cf185c853178f76:767491044,4e4f4039b6d03010fd46a4f03c7f2cef:62447397,64ac0c3563d03010493a9f2c4344ca64:1419188273</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_shrinknow_urls_u_number</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_number" table="u_shrinknow_urls"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;ignore_filter_on_new=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Number&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;javascript:global.getNextObjNumberPadded();&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_number&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_shrinknow_urls&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:18:25&lt;/sys_created_on&gt;&lt;sys_id&gt;441e48b52fd03010732c4ae72799b67f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Number&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_shrinknow_urls_u_number&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-23 21:18:25&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1896949678</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>990474762f503010732c4ae72799b6fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1ed0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Number</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>8c1e48b596d03010a11bf0376875198a</update_guid>
+<update_guid_history>8c1e48b596d03010a11bf0376875198a:-1896949678</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4fdc40752fd03010732c4ae72799b65a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:10</sys_created_on><sys_id>4fdc40752fd03010732c4ae72799b65a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls.u_shrinknow_urls_user</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_security_acl display_value="u_shrinknow_urls">07dc40752fd03010732c4ae72799b656</sys_security_acl><sys_update_name>sys_security_acl_role_4fdc40752fd03010732c4ae72799b65a</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:10</sys_updated_on><sys_user_role display_value="u_shrinknow_urls_user" name="u_shrinknow_urls_user">b2dcccf12fd03010732c4ae72799b6be</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-348081999</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>9904b4762f503010732c4ae72799b601</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e0950000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls.u_shrinknow_urls_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>c7dc4075e5d030103c44b3e3cada435e</update_guid>
+<update_guid_history>c7dc4075e5d030103c44b3e3cada435e:-348081999</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_shrinknow_urls_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="u_shrinknow_urls"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_shrinknow_urls&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:13:10&lt;/sys_created_on&gt;&lt;sys_id&gt;07dc40752fd03010732c4ae72799b65f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_shrinknow_urls&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_shrinknow_urls_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-23 21:13:10&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1234376787</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>9d0474762f503010732c4ae72799b6fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e0b10000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>e7dc40750dd03010e415c8b87a115ec4</update_guid>
+<update_guid_history>e7dc40750dd03010e415c8b87a115ec4:1234376787</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_07dc40752fd03010732c4ae72799b656</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_shrinknow_urls</description><name>u_shrinknow_urls</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:09</sys_created_on><sys_id>07dc40752fd03010732c4ae72799b656</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_security_acl_07dc40752fd03010732c4ae72799b656</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:09</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-189961047</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>9d04b4762f503010732c4ae72799b600</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e07d0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>8fdc40759fd03010b9954c5e19905c59</update_guid>
+<update_guid_history>8fdc40759fd03010b9954c5e19905c59:-189961047</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_shrinknow_urls_u_expires_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_expires" label="Expires" language="en" table="u_shrinknow_urls"><sys_documentation action="INSERT_OR_UPDATE"><element>u_expires</element><help/><hint/><label>Expires</label><language>en</language><name>u_shrinknow_urls</name><plural>Expires</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:16:54</sys_created_on><sys_id>c6bd80b52fd03010732c4ae72799b62e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Expires</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_documentation_u_shrinknow_urls_u_expires_en</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:16:54</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>2018521739</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>d10474762f503010732c4ae72799b6ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1040000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Expires</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>4abd80b5d5d03010915b77aa63968e3f</update_guid>
+<update_guid_history>4abd80b5d5d03010915b77aa63968e3f:2018521739</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_u_shrinknow_urls_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_shrinknow_urls" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_number</element><list_id display_value="u_shrinknow_urls" element="NULL" name="u_shrinknow_urls" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">320254f92fd03010732c4ae72799b603</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_id>fa0254f92fd03010732c4ae72799b603</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_url_id</element><list_id display_value="u_shrinknow_urls" element="NULL" name="u_shrinknow_urls" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">320254f92fd03010732c4ae72799b603</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_id>7e0254f92fd03010732c4ae72799b603</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_long_url</element><list_id display_value="u_shrinknow_urls" element="NULL" name="u_shrinknow_urls" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">320254f92fd03010732c4ae72799b603</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_id>fe0254f92fd03010732c4ae72799b603</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_expires</element><list_id display_value="u_shrinknow_urls" element="NULL" name="u_shrinknow_urls" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">320254f92fd03010732c4ae72799b603</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_id>720254f92fd03010732c4ae72799b604</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_active</element><list_id display_value="u_shrinknow_urls" element="NULL" name="u_shrinknow_urls" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">320254f92fd03010732c4ae72799b603</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_id>f20254f92fd03010732c4ae72799b604</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_by</element><list_id display_value="u_shrinknow_urls" element="NULL" name="u_shrinknow_urls" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">320254f92fd03010732c4ae72799b603</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_id>760254f92fd03010732c4ae72799b604</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_on</element><list_id display_value="u_shrinknow_urls" element="NULL" name="u_shrinknow_urls" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">320254f92fd03010732c4ae72799b603</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_id>f60254f92fd03010732c4ae72799b604</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_shrinknow_urls</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:35:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>320254f92fd03010732c4ae72799b603</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_ui_list_u_shrinknow_urls_null</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:35:48</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>676556979</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>d104b4762f503010732c4ae72799b602</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e2550000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>f60254f9cbd030108d8ce01a21959606</update_guid>
+<update_guid_history>f60254f9cbd030108d8ce01a21959606:676556979,18d198b940d0301025d08c65c3216b55:205290609</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_shrinknow_urls_u_long_url</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_long_url" table="u_shrinknow_urls"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Long URL&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_long_url&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;1024&lt;/max_length&gt;&lt;name&gt;u_shrinknow_urls&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-23 21:16:54&lt;/sys_created_on&gt;&lt;sys_id&gt;c48d80752fd03010732c4ae72799b689&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Long URL&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_shrinknow_urls_u_long_url&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-23 21:16:54&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>740115919</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>d50474762f503010732c4ae72799b6fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1220000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs.Long URL</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>8ebd80b57bd0301034d39042372b6728</update_guid>
+<update_guid_history>8ebd80b57bd0301034d39042372b6728:740115919</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4bdc40752fd03010732c4ae72799b648</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:09</sys_created_on><sys_id>4bdc40752fd03010732c4ae72799b648</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls.u_shrinknow_urls_user</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_security_acl display_value="u_shrinknow_urls">03dc40752fd03010732c4ae72799b644</sys_security_acl><sys_update_name>sys_security_acl_role_4bdc40752fd03010732c4ae72799b648</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:09</sys_updated_on><sys_user_role display_value="u_shrinknow_urls_user" name="u_shrinknow_urls_user">b2dcccf12fd03010732c4ae72799b6be</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>364244044</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>d504b4762f503010732c4ae72799b601</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e02f0000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls.u_shrinknow_urls_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>c3dc407516d03010398e10b8f4599e4c</update_guid>
+<update_guid_history>c3dc407516d03010398e10b8f4599e4c:364244044</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_d6bc8c352fd03010732c4ae72799b6d4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>ShrinkNow - URLs</label><live_feed_enabled>false</live_feed_enabled><name>u_shrinknow_urls</name><number_ref display_value="URL">881e80752fd03010732c4ae72799b68a</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:08</sys_created_on><sys_id>d6bc8c352fd03010732c4ae72799b6d4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>ShrinkNow - URLs</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_db_object_d6bc8c352fd03010732c4ae72799b6d4</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:18:25</sys_updated_on><update_access>false</update_access><user_role display_value="u_shrinknow_urls_user" name="u_shrinknow_urls_user">b2dcccf12fd03010732c4ae72799b6be</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-1851603393</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>d90474762f503010732c4ae72799b6fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e1d50000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>c01e48b55bd0301003fca409bb77327e</update_guid>
+<update_guid_history>c01e48b55bd0301003fca409bb77327e:-1851603393,27dc4075d6d03010bf8e43e145242ac7:-2081728474</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_03dc40752fd03010732c4ae72799b644</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_shrinknow_urls</description><name>u_shrinknow_urls</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:09</sys_created_on><sys_id>03dc40752fd03010732c4ae72799b644</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_security_acl_03dc40752fd03010732c4ae72799b644</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:09</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1145102977</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>d904b4762f503010732c4ae72799b600</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e0650000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>u_shrinknow_urls</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>8bdc4075c5d0301051b7ad20ed092a47</update_guid>
+<update_guid_history>8bdc4075c5d0301051b7ad20ed092a47:-1145102977</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sysauto_script_bd84d9712f183010732c4ae72799b62a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysauto_script"&gt;&lt;sysauto_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;business_calendar/&gt;&lt;condition/&gt;&lt;conditional&gt;false&lt;/conditional&gt;&lt;entered_time&gt;1970-01-01 00:00:00&lt;/entered_time&gt;&lt;name&gt;ShrinkNow - URL Deactivation&lt;/name&gt;&lt;offset/&gt;&lt;offset_type&gt;0&lt;/offset_type&gt;&lt;run_as display_value="rpoore admin"&gt;889070a0db50330040dc9006db961980&lt;/run_as&gt;&lt;run_as_tz/&gt;&lt;run_dayofmonth&gt;1&lt;/run_dayofmonth&gt;&lt;run_dayofweek&gt;1&lt;/run_dayofweek&gt;&lt;run_period/&gt;&lt;run_start&gt;2021-05-24 02:26:17&lt;/run_start&gt;&lt;run_time&gt;1970-01-01 05:00:00&lt;/run_time&gt;&lt;run_type&gt;daily&lt;/run_type&gt;&lt;script&gt;&lt;![CDATA[function deactivateExpired() {
+    var gr = new GlideRecord('u_shrinknow_urls');
+	gr.addEncodedQuery('u_active=true^u_expiresONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()');
+    gr.query();
+
+    while (gr.next()) {
+        gr.u_active = false;
+		gr.update();       
+    }
+}
+
+function deleteExpiredAfterYear() {
+    var gr = new GlideRecord('u_shrinknow_urls');
+	gr.addEncodedQuery('u_active=false^u_expiresONOne year ago@javascript:gs.beginningOfOneYearAgo()@javascript:gs.endOfOneYearAgo()');
+    gr.query();
+
+    while (gr.next()) {
+        gr.deleteRecord();   
+    }
+}
+
+deactivateExpired();
+
+deleteExpiredAfterYear();]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sysauto_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rpoore_admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-24 02:28:26&lt;/sys_created_on&gt;&lt;sys_id&gt;bd84d9712f183010732c4ae72799b62a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;ShrinkNow - URL Deactivation&lt;/sys_name&gt;&lt;sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ShrinkNow"&gt;4dfac4b12fd03010732c4ae72799b6b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysauto_script_bd84d9712f183010732c4ae72799b62a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rpoore_admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-24 02:28:26&lt;/sys_updated_on&gt;&lt;time_zone/&gt;&lt;upgrade_safe&gt;false&lt;/upgrade_safe&gt;&lt;/sysauto_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1818036279</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>dd0474762f503010732c4ae72799b6fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e3070000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>ShrinkNow - URL Deactivation</target_name>
+<type>Scheduled Script Execution</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_shrinknow_urls__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="ShrinkNow - URLs" language="en" table="u_shrinknow_urls"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>ShrinkNow - URLs</label><language>en</language><name>u_shrinknow_urls</name><plural>ShrinkNow - URLs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:11</sys_created_on><sys_id>d7dc40752fd03010732c4ae72799b668</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ShrinkNow - URLs</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_documentation_u_shrinknow_urls__en</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:11</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1474029505</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>dd0474762f503010732c4ae72799b6ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44e0c70000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table>u_shrinknow_urls</table>
+<target_name>ShrinkNow - URLs</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>afdc407516d03010ae2538a6956df4c5</update_guid>
+<update_guid_history>afdc407516d03010ae2538a6956df4c5:-1474029505</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_b2dcccf12fd03010732c4ae72799b6be</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>u_shrinknow_urls_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2021-05-23 21:13:08</sys_created_on><sys_id>b2dcccf12fd03010732c4ae72799b6be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_shrinknow_urls_user</sys_name><sys_package display_value="ShrinkNow" source="4dfac4b12fd03010732c4ae72799b6b8">4dfac4b12fd03010732c4ae72799b6b8</sys_package><sys_policy/><sys_scope display_value="ShrinkNow">4dfac4b12fd03010732c4ae72799b6b8</sys_scope><sys_update_name>sys_user_role_b2dcccf12fd03010732c4ae72799b6be</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2021-05-23 21:13:08</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-442992439</payload_hash>
+<remote_update_set display_value="ShrinkNow-v1.0">990474762f503010732c4ae72799b6fc</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>rpoore_admin</sys_created_by>
+<sys_created_on>2021-05-27 02:38:11</sys_created_on>
+<sys_id>dd04b4762f503010732c4ae72799b602</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1799c44dfd00000001</sys_recorded_at>
+<sys_updated_by>rpoore_admin</sys_updated_by>
+<sys_updated_on>2021-05-27 02:38:11</sys_updated_on>
+<table/>
+<target_name>u_shrinknow_urls_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>f2dc4075fcd03010ed4c113243769034</update_guid>
+<update_guid_history>f2dc4075fcd03010ed4c113243769034:-442992439</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
